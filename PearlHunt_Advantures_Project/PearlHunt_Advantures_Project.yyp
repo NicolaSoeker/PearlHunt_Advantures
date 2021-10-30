@@ -1,11 +1,13 @@
 {
   "resources": [
+    {"id":{"name":"spr_snail","path":"sprites/spr_snail/spr_snail.yy",},"order":0,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"macOS","path":"options/mac/options_mac.yy",},
     {"name":"Main","path":"options/main/options_main.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
+    {"name":"Windows","path":"options/windows/options_windows.yy",},
   ],
   "isDnDProject": false,
   "isEcma": false,
